@@ -1,0 +1,19 @@
+release: 2026-09-15-sponsor-update
+status: approved
+source: staging5
+approved_by: Marketing
+
+pages:
+  - url: /sponsors/
+    change: Updated sponsor copy and logos
+  - url: /
+    change: Updated sponsor section
+
+media:
+  - sponsor-logo.png
+
+bebuilder_exports:
+  - sponsors-page.txt
+
+theme_settings_changed: false
+plugins_changed: false
