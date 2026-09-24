@@ -1,0 +1,14 @@
+release: 2026-09-24-ticket-update
+status: approved
+source: staging5
+approved_by: Marketing
+
+pages:
+  - url: /tickets/
+    change: Updated ticket options to include military and first responder
+
+bebuilder_exports:
+  - 232-publish-tickets.json
+
+theme_settings_changed: false
+plugins_changed: false
