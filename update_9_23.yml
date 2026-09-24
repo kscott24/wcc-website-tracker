@@ -1,0 +1,17 @@
+release: 2026-09-23
+status: approved
+source: staging5
+approved_by: Marketing
+
+pages:
+  - url: /tickets
+    change: Added section for military and first responders tickets
+
+media:
+  - sponsor-logo.png
+
+bebuilder_exports:
+  - sponsors-page.txt
+
+theme_settings_changed: false
+plugins_changed: false
